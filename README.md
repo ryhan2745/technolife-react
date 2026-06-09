@@ -10,7 +10,6 @@
 
 ## تکنولوژی‌ها
 - React.js
-- Next.js
 - Tailwind CSS
 - Context API
 - json-server (برای شبیه‌سازی بک‌اند)
