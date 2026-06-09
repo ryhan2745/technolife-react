@@ -1,0 +1,1508 @@
+{
+  "banners": [
+    {
+      "id": "1",
+      "image": "/images/banner_SlideBanner1.webp",
+      "alt": "pic1"
+    },
+    {
+      "id": "2",
+      "image": "/images/banner_SlideBanner2.webp",
+      "alt": "pic2"
+    },
+    {
+      "id": "3",
+      "image": "/images/banner_SlideBanner3.webp",
+      "alt": "pic3"
+    },
+    {
+      "id": "4",
+      "image": "/images/banner_SlideBanner4.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "5",
+      "image": "/images/banner_SlideBanner5.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "6",
+      "image": "/images/banner_SlideBanner6.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "7",
+      "image": "/images/banner_SlideBanner7.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "8",
+      "image": "/images/banner_SlideBanner8.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "9",
+      "image": "/images/banner_SlideBanner9.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "10",
+      "image": "/images/banner_SlideBanner10.gif",
+      "alt": "pic4"
+    },
+    {
+      "id": "11",
+      "image": "/images/banner_SlideBanner11.webp",
+      "alt": "pic4"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "image": "/images/category1.webp",
+      "alt": "pic1",
+      "title": "خردکن",
+      "category": "crusher"
+    },
+    {
+      "id": "2",
+      "image": "/images/category2.webp",
+      "alt": "pic2",
+      "title": "لامپ و چراغ قوه",
+      "category": "lamp"
+    },
+    {
+      "id": "3",
+      "image": "/images/category3.webp",
+      "alt": "pic3",
+      "title": "ساعت هوشمند",
+      "category": "smartWatch"
+    },
+    {
+      "id": "4",
+      "image": "/images/category4.webp",
+      "alt": "pic4",
+      "title": "سشوار",
+      "category": "hairDryer"
+    },
+    {
+      "id": "5",
+      "image": "/images/category5.webp",
+      "alt": "pic5",
+      "title": "لوستر و چراغ خواب",
+      "category": "chandelier"
+    },
+    {
+      "id": "6",
+      "image": "/images/category6.webp",
+      "alt": "pic6",
+      "title": "جاروبرقی",
+      "category": "vaccum"
+    },
+    {
+      "id": "7",
+      "image": "/images/category7.webp",
+      "alt": "pic7",
+      "title": "s۲۶ گوشی سامسونگ",
+      "category": "mobile"
+    },
+    {
+      "id": "8",
+      "image": "/images/category8.webp",
+      "alt": "pic8",
+      "title": "اتو مو",
+      "category": "hairIron"
+    },
+    {
+      "id": "9",
+      "image": "/images/category9.webp",
+      "alt": "pic9",
+      "title": "تلویزیون",
+      "category": "tv"
+    },
+    {
+      "id": "10",
+      "image": "/images/category10.webp",
+      "alt": "pic10",
+      "title": "لوازم جانبی کامپیوتر",
+      "category": "computer"
+    },
+    {
+      "id": "11",
+      "image": "/images/category11.webp",
+      "alt": "pic11",
+      "title": "شارژر و پاور بانک",
+      "category": "charger"
+    },
+    {
+      "id": "12",
+      "image": "/images/category12.webp",
+      "alt": "pic12",
+      "title": "ساعت مچی",
+      "category": "watch"
+    },
+    {
+      "id": "13",
+      "image": "/images/category13.webp",
+      "alt": "pic13",
+      "title": "یخچال فریزر",
+      "category": "refrigerator"
+    },
+    {
+      "id": "14",
+      "image": "/images/category14.webp",
+      "alt": "pic14",
+      "title": "فلش مموری"
+    },
+    {
+      "id": "15",
+      "image": "/images/category15.webp",
+      "alt": "pic15",
+      "title": "اسپیکر",
+      "category": "speaker"
+    },
+    {
+      "id": "16",
+      "image": "/images/category16.webp",
+      "alt": "pic16",
+      "title": "هدفون و هندزفری",
+      "category": "handsfree"
+    },
+    {
+      "id": "17",
+      "image": "/images/category17.webp",
+      "alt": "pic17",
+      "title": "سکه طلا",
+      "category": "gold"
+    },
+    {
+      "id": "18",
+      "image": "/images/category18.webp",
+      "alt": "pic18",
+      "title": "ابزارآلات",
+      "category": "instrument"
+    },
+    {
+      "id": "19",
+      "image": "/images/category19.webp",
+      "alt": "pic19",
+      "title": "انگشتر طلا",
+      "category": "jewelry"
+    },
+    {
+      "id": "20",
+      "image": "/images/category20.webp",
+      "alt": "pic20",
+      "title": "کنسول بازی",
+      "category": "accessory"
+    },
+    {
+      "id": "21",
+      "image": "/images/category21.webp",
+      "alt": "pic21",
+      "title": "لپ تاپ",
+      "category": "laptop"
+    },
+    {
+      "id": "22",
+      "image": "/images/category22.webp",
+      "alt": "pic22",
+      "title": "شیرآلات",
+      "category": "instrument"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "/images/mobile1.webp",
+      "name": "گوشی موبایل شیائومی مدل Redmi A5 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
+      "category": [
+        "mobile"
+      ],
+      "brand": "xiaomi",
+      "price": "۱۳,۴۹۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۳",
+      "isoff": "false",
+      "isnew": "false"
+    },
+    {
+      "id": "2",
+      "image": "/images/mobile2.webp",
+      "name": "گوشی موبایل سامسونگ Galaxy S26 Ultra ظرفیت 256 گیگابایت رم 12 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsuang",
+      "price": "۱۸۱,۸۹۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۳",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "3",
+      "image": "/images/mobile3.webp",
+      "name": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۸۳,۸۰۰,۰۰۰",
+      "offprice": "۸۵,۴۰۰,۰۰۰",
+      "offpercent": "۲٪",
+      "rate": "۳.۶",
+      "isoff": "",
+      "isnew": ""
+    },
+    {
+      "id": "4",
+      "image": "/images/mobile4.webp",
+      "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 64 گیگابایت رم 4 گیگابایت",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۱۳,۶۰۰,۰۰۰",
+      "offprice": "۱۴,۵۰۰,۰۰۰",
+      "offpercent": "۷٪",
+      "rate": "۴.",
+      "isoff": "",
+      "isnew": ""
+    },
+    {
+      "id": "5",
+      "image": "/images/mobile5.webp",
+      "name": "گوشی موبايل شیائومی مدل Redmi Note 14 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+      "category": [
+        "mobile"
+      ],
+      "brand": "xiaomi",
+      "price": "۲۶,۰۴۹,۰۰۰",
+      "offprice": "۲۶,۵۹۹,۰۰۰",
+      "offpercent": "۳٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": ""
+    },
+    {
+      "id": "6",
+      "image": "/images/mobile3.webp",
+      "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۳۵,۸۰۰,۰۰۰",
+      "offprice": "۳۷,۵۰۰,۰۰۰",
+      "offpercent": "۵٪",
+      "rate": "۴.۲",
+      "isoff": "true",
+      "isnew": ""
+    },
+    {
+      "id": "7",
+      "image": "/images/mobile7.webp",
+      "name": "گوشی موبایل شیائومی مدل Redmi 13x ظرفیت 256 گیگابایت رم 8 گیگابایت",
+      "category": [
+        "mobile"
+      ],
+      "brand": "xiaomi",
+      "price": "۲۱,۸۹۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۳",
+      "isoff": "",
+      "isnew": ""
+    },
+    {
+      "id": "8",
+      "image": "/images/mobile8.webp",
+      "name": "گوشی موبایل شیائومی مدل Poco C71 ظرفیت 128 گیگابایت رم 4 گیگابایت",
+      "category": [
+        "mobile"
+      ],
+      "brand": "xiaomi",
+      "price": "۱۳,۵۹۹,۰۰۰",
+      "offprice": "۱۴,۰۴۹,۰۰۰",
+      "offpercent": "۴٪",
+      "rate": "4.4",
+      "isoff": "",
+      "isnew": ""
+    },
+    {
+      "id": "9",
+      "image": "/images/mobile9.webp",
+      "name": "گوشی موبایل سامسونگ Galaxy S25 Ultra 5G ظرفیت 512 گیگابایت رم 12 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۲۳۸,۰۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "10",
+      "image": "/images/mobile10.webp",
+      "name": "گوشی موبایل سامسونگ Galaxy S25 Ultra 5G ظرفیت 256 گیگابایت رم 12 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۱۸۱,۹۰۰,۰۰۰",
+      "offprice": "۱۸۳,۰۰۰,۰۰۰",
+      "offpercent": "۱٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "11",
+      "image": "/images/mobile11.webp",
+      "name": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۸۴,۰۰۰,۰۰۰",
+      "offprice": "۸۵,۲۰۰,۰۰۰",
+      "offpercent": "۲٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "12",
+      "image": "/images/mobile12.webp",
+      "name": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+      "category": [
+        "mobile"
+      ],
+      "brand": "apple",
+      "price": "۳۵۴,۵۹۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "13",
+      "image": "/images/mobile13.webp",
+      "name": "گوشی موبایل اپل iPhone 17 Pro ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+      "category": [
+        "mobile"
+      ],
+      "brand": "apple",
+      "price": "۳۲۲,۹۹۹,۰۰۰",
+      "offprice": "۳۳۹,۹۹۹,۰۰۰",
+      "offpercent": "۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "14",
+      "image": "/images/mobile14.webp",
+      "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 12 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۶۵,۳۰۰,۰۰۰",
+      "offprice": "۶۶,۴۰۰,۰۰۰",
+      "offpercent": "۲٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "15",
+      "image": "/images/mobile15.webp",
+      "name": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 512 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+      "category": [
+        "mobile"
+      ],
+      "brand": "apple",
+      "price": "۴۲۱,۹۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "16",
+      "image": "/images/mobile15.webp",
+      "name": "گوشی موبایل اپل iPhone 17 Pro Max CH/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+      "category": [
+        "mobile"
+      ],
+      "brand": "apple",
+      "price": "۳۲۹,۰۹۹,۰۰۰",
+      "offprice": "۳۳۵,۹۹۹,۰۰۰",
+      "offpercent": "۳٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "17",
+      "image": "/images/mobile17.webp",
+      "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 128 گیگابایت رم 8 گیگابایت - ویتنام",
+      "category": [
+        "mobile"
+      ],
+      "brand": "samsung",
+      "price": "۵۱,۶۳۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "18",
+      "image": "/images/laptop1.webp",
+      "name": "لپ تاپ لنوو 15.6 اینچی مدل IdeaPad Slim 3 i3 1315U 8GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "lenovo",
+      "price": "۵۶,۷۹۹,۰۰۰",
+      "offprice": "۶۰,۰۰۰,۰۰۰",
+      "offpercent": "۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "19",
+      "image": "/images/laptop2.webp",
+      "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 F1504VA i3 1315U 8GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "asus",
+      "price": "۶۱,۹۹۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": ""
+    },
+    {
+      "id": "20",
+      "image": "/images/laptop3.webp",
+      "name": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go AG15 R5 7520U 8GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "aser",
+      "price": "۵۸,۹۰۰,۰۰۰",
+      "offprice": "۶۱,۰۰۰,۰۰۰",
+      "offpercent": "۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "21",
+      "image": "/images/laptop4.webp",
+      "name": "لپ تاپ لنوو 15.6 اینچی مدل LOQ R5 7235HS 12GB 512GB RTX3050 A",
+      "category": [
+        "laptop"
+      ],
+      "brand": "lenovo",
+      "price": "۹۴,۴۹۹,۰۰۰",
+      "offprice": "۹۸,۰۰۰,۰۰۰",
+      "offpercent": "۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "22",
+      "image": "/images/laptop5.webp",
+      "name": "لپ تاپ لنوو 15.3 اینچی مدل IdeaPad Slim 3 i5 13420H 16GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "lenovo",
+      "price": "۸۹,۰۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "23",
+      "image": "/images/laptop6.webp",
+      "name": "لپ تاپ اچ پی 15.6 اینچی مدل Victus 15 FA2082WM i5 13420H 16GB 512GB RTX4050",
+      "category": [
+        "laptop"
+      ],
+      "brand": "hp",
+      "price": "۱۲۰,۰۰۰,۰۰۰",
+      "offprice": "۱۲۶,۰۰۰,۰۰۰",
+      "offpercent": "۵٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "24",
+      "image": "/images/laptop7.webp",
+      "name": "لپ تاپ ایسوس 16 اینچی مدل TUF Gaming F16 FX608JMR i7 14650HX 32GB 1TB RTX 5060",
+      "category": [
+        "laptop"
+      ],
+      "brand": "asus",
+      "price": "۲۸۳,۰۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "25",
+      "image": "/images/laptop8.webp",
+      "name": "لپ تاپ ایسر 15.3 اینچی مدل Aspire Go AG15 i5 1334U 8GB 256GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "aser",
+      "price": "۶۳,۵۰۰,۰۰۰",
+      "offprice": "۶۷,۰۰۰,۰۰۰",
+      "offpercent": "۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "26",
+      "image": "/images/laptop9.webp",
+      "name": "لپ تاپ لنوو 15.6 اینچی V15 R7 7730U 16GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "lenovo",
+      "price": "۷۱,۰۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "27",
+      "image": "/images/laptop10.webp",
+      "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i3 1315U 8GB 512GB",
+      "category": [
+        "laptop"
+      ],
+      "brand": "asus",
+      "price": "۶۰,۵۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "28",
+      "image": "/images/instrument1.webp",
+      "name": "کمپرسور هوا ویوارکس مدل VR 1207 ACT",
+      "category": [
+        "instrument"
+      ],
+      "brand": "ویوارکس",
+      "price": "۵,۴۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "29",
+      "image": "/images/instrument2.webp",
+      "name": "دریل چکشی رونیکس مدل RH-2214K",
+      "category": [
+        "instrument"
+      ],
+      "brand": "رونیکس",
+      "price": "۳,۵۷۸,۰۰۰",
+      "offprice": "۴,۵۰۰,۰۰۰",
+      "offpercent": "۲۱٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "30",
+      "image": "/images/instrument3.webp",
+      "name": "کیت دریل برقی چکشی رونیکس مدل RS-0001",
+      "category": [
+        "instrument"
+      ],
+      "brand": "رونیکس",
+      "price": "۵,۱۹۹,۰۰۰",
+      "offprice": "۶,۲۰۰,۰۰۰",
+      "offpercent": "۱۷٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "31",
+      "image": "/images/instrument4.webp",
+      "name": "پیچ گوشتی شارژی براشلس 12 ولت توسن مدل 9612BS",
+      "category": [
+        "instrument"
+      ],
+      "brand": "براشلس",
+      "price": "۸,۷۳۰,۰۰۰",
+      "offprice": "۹,۸۹۵,۰۰۰",
+      "offpercent": "۱۲٪",
+      "rate": "۴.۴",
+      "isoff": "true",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "32",
+      "image": "/images/instrument5.webp",
+      "name": "دریل پیچ گوشتی چکشی براشلس 13 میلی متری 20 ولت توسن مدل 9620BHS",
+      "category": [
+        "instrument"
+      ],
+      "brand": "براشلس",
+      "price": "۱۲,۳۵۰,۰۰۰",
+      "offprice": "۱۳,۹۹۵,۰۰۰",
+      "offpercent": "۱۲٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "33",
+      "image": "/images/instrument6.webp",
+      "name": "پیچ گوشتی و بکس ویوارکس مدل VR6365-SD مجموعه 63 عددی",
+      "category": [
+        "instrument"
+      ],
+      "brand": "ویوارکس",
+      "price": "۱,۵۶۶,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "34",
+      "image": "/images/instrument7.webp",
+      "name": "مینی فرز رونیکس مدل 3165",
+      "category": [
+        "instrument"
+      ],
+      "brand": "رونیکس",
+      "price": "۶,۵۷۶,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "35",
+      "image": "/images/instrument8.webp",
+      "name": "فرچه سر دریلی اکو مدل YP-EWBS-5 مجموعه 5 عددی",
+      "category": [
+        "instrument"
+      ],
+      "brand": "اکو",
+      "price": "۳۱۵,۳۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "36",
+      "image": "/images/instrument9.webp",
+      "name": "مجموعه 24 عددی پیچ گوشتی و بیت ویوارکس مدل VR2465-SD",
+      "category": [
+        "instrument"
+      ],
+      "brand": "ویوارکس",
+      "price": "۷۳۰,۰۰۰",
+      "offprice": "۷۹۰,۰۰۰",
+      "offpercent": "۸٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "37",
+      "image": "/images/instrument10.webp",
+      "name": "پیچ گوشتی شارژی رونیکس 12 ولت مدل 8613",
+      "category": [
+        "instrument"
+      ],
+      "brand": "رونیکس",
+      "price": "۶,۶۰۵,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "38",
+      "image": "/images/computer1.webp",
+      "name": "هارد اکسترنال سیلیکون پاور مدل Armor A80 ظرفیت 2 ترابایت",
+      "category": [
+        "computer"
+      ],
+      "brand": "",
+      "price": "۱۲,۸۹۰,۰۰۰",
+      "offprice": "۱۴,۰۰۰,۰۰۰",
+      "offpercent": "۸٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "39",
+      "image": "/images/computer2.webp",
+      "name": "مودم روتر ADSL2 Plus بی‌سیم تی پی -لینک مدل TD-W8961N",
+      "category": [
+        "computer"
+      ],
+      "brand": "ADSL",
+      "price": "۲,۹۵۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "40",
+      "image": "/images/computer3.webp",
+      "name": "مانیتور ام اس آی مدل G255PF E2 سایز 24.5 اینچ",
+      "category": [
+        "computer"
+      ],
+      "brand": "Msi",
+      "price": "۱۶,۸۸۸,۰۰۰",
+      "offprice": "۱۸,۵۰۰,۰۰۰",
+      "offpercent": "۹٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "41",
+      "image": "/images/computer4.webp",
+      "name": "مانیتور سامسونگ مدل LS24D300GAMXUE سایز 24 اینچ",
+      "category": [
+        "computer"
+      ],
+      "brand": "samsung",
+      "price": "۱۲,۵۴,۰۰۰",
+      "offprice": "۱۳,۷۵۰,۰۰۰",
+      "offpercent": "۹٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "42",
+      "image": "/images/computer5.webp",
+      "name": "هارد اکسترنال وسترن دیجیتال مدل My Passport ظرفیت 1 ترابایت",
+      "category": [
+        "computer"
+      ],
+      "brand": "western",
+      "price": "۷,۸۵۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "43",
+      "image": "/images/computer6.webp",
+      "name": "هارد اکسترنال ای دیتا مدل HD770G ظرفیت 1 ترابایت",
+      "category": [
+        "computer"
+      ],
+      "brand": "adata",
+      "price": "۱۳,۴۰۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "44",
+      "image": "/images/computer7.webp",
+      "name": "هارد اکسترنال ای دیتا مدل HD710 Pro ظرفیت 1 ترابایت",
+      "category": [
+        "computer"
+      ],
+      "brand": "adata",
+      "price": "۱۲,۰۰۰,۰۰۰",
+      "offprice": "۱۲,۵۰۰,۰۰۰",
+      "offpercent": "۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "45",
+      "image": "/images/computer8.webp",
+      "name": "هارد اکسترنال توشیبا مدل Canvio Ready با ظرفیت 1 ترابایت",
+      "category": [
+        "computer"
+      ],
+      "brand": "toshiba",
+      "price": "۱۰,۹۸۰,۰۰۰",
+      "offprice": "۱۱,۵۰۰,۰۰۰",
+      "offpercent": "۵٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "46",
+      "image": "/images/computer9.webp",
+      "name": "مانیتور اچ پی مدل E24 G5 سایز ۲۳.۸ اینچ",
+      "category": [
+        "computer"
+      ],
+      "brand": "hp",
+      "price": "۳۲,۰۰۰,۰۰۰",
+      "offprice": "۶۲,۵۵۰,۰۰۰",
+      "offpercent": "۵٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "47",
+      "image": "/images/accessory1.webp",
+      "name": "پلی استیشن 5 اسلیم دیجیتال اروپا",
+      "category": [
+        "accessory"
+      ],
+      "brand": "slim",
+      "price": "۷۸,۹۹۹,۰۰۰",
+      "offprice": "۸۲,۹۹۹,۰۰۰",
+      "offpercent": "۵٪",
+      "rate": "۴.۴",
+      "isoff": "true",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "48",
+      "image": "/images/accessory2.webp",
+      "name": "هندزفری بلوتوثی کیو سی وای مدل T13 Anc2",
+      "category": [
+        "accessory",
+        "handsfree"
+      ],
+      "brand": "qcy",
+      "price": "۱,۷۶۹,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "49",
+      "image": "/images/accessory3.webp",
+      "name": "ساعت هوشمند شیائومی مدل Redmi watch 5 Active",
+      "category": [
+        "accessory",
+        "smartWatch"
+      ],
+      "brand": "xiaomi",
+      "price": "۴,۲۳۹,۰۰۰",
+      "offprice": "۵,۰۰۰,۰۰۰",
+      "offpercent": "۱۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "50",
+      "image": "/images/accessory4.webp",
+      "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+      "category": [
+        "accessory",
+        "charger"
+      ],
+      "brand": "apple",
+      "price": "۲,۹۴۹,۰۰۰",
+      "offprice": "۳,۵۹۹,۰۰۰",
+      "offpercent": "۱۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "51",
+      "image": "/images/accessory5.webp",
+      "name": "پارتی باکس جی بی ال مدل partybox Stage 320",
+      "category": [
+        "accessory"
+      ],
+      "brand": "gbl",
+      "price": "۷۹,۹۰۰,۰۰۰",
+      "offprice": "۸۵,۰۰۰,۰۰۰",
+      "offpercent": "۶٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "52",
+      "image": "/images/accessory6.webp",
+      "name": "شارژر دیواری سامسونگ 25 وات مدل EP-T2510 - اورجینال",
+      "category": [
+        "accessory",
+        "charger"
+      ],
+      "brand": "samsung",
+      "price": "۱,۲۹۹,۰۰۰",
+      "offprice": "۲,۳۳۰,۰۰۰",
+      "offpercent": "۴۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "53",
+      "image": "/images/accessory7.webp",
+      "name": "پاوربانک شیائومی مدل Redmi PB200LZM ظرفیت 20000 میلی آمپرساعت به همراه کابل تبدیل microUSB",
+      "category": [
+        "accessory",
+        "charger"
+      ],
+      "brand": "xiaomi",
+      "price": "۲,۱۸۵,۰۰۰",
+      "offprice": "۲,۴۵۰,۰۰۰",
+      "offpercent": "۱۱٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "54",
+      "image": "/images/furniture1.webp",
+      "name": "یخچا‌ل فریزر دوقلو دیپوینت مدل EXPLORE",
+      "category": [
+        "furniture",
+        "refrigerator"
+      ],
+      "brand": "dipoint",
+      "price": "۱۷۳,۸۰۰,۰۰۰",
+      "offprice": "۲۲۸,۰۰۰,۰۰۰",
+      "offpercent": "۲۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "55",
+      "image": "/images/furniture2.webp",
+      "name": "تلویزیون اسنوا مدل 55SA710 سایز 55 اینچ",
+      "category": [
+        "furniture",
+        "tv"
+      ],
+      "brand": "snowa",
+      "price": "۵۴,۰۰۰,۰۰۰",
+      "offprice": "۵۹,۵۰۰,۰۰۰",
+      "offpercent": "۱۰٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "56",
+      "image": "/images/furniture3.webp",
+      "name": "یخچال فریزر ایکس ویژن 26 فوت مدل TT582 AWD",
+      "category": [
+        "furniture",
+        "refrigerator"
+      ],
+      "brand": "xvision",
+      "price": "۵۸,۵۰۰,۰۰۰",
+      "offprice": "۷۱,۰۰۰,۰۰۰",
+      "offpercent": "۱۸٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "57",
+      "image": "/images/furniture4.webp",
+      "name": "اجاق گاز صفحه ای اسنوا مدل SG-164113",
+      "category": [
+        "furniture",
+        "stove"
+      ],
+      "brand": "snowa",
+      "price": "۱۵,۳۰۰,۰۰۰",
+      "offprice": "۲۶,۰۰۰,۰۰۰",
+      "offpercent": "۴۴٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "58",
+      "image": "/images/furniture5.webp",
+      "name": "اجاق گاز صفحه ای اسنوا مدل SG132114",
+      "category": [
+        "furniture",
+        "stove"
+      ],
+      "brand": "snowa",
+      "price": "۹,۵۰۰,۰۰۰",
+      "offprice": "۱۵,۷۷۰,۰۰۰",
+      "offpercent": "۴۰٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "59",
+      "image": "/images/furniture6.webp",
+      "name": "ماشین ظرفشویی ایکس ویژن مدل S151",
+      "category": [
+        "furniture",
+        "dishwasher"
+      ],
+      "brand": "xvision",
+      "price": "۵۴,۵۰۰,۰۰۰",
+      "offprice": "۷۷,۰۰۰,۰۰۰",
+      "offpercent": "۳۰٪",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isnew": "",
+      "isFlagShip": "",
+      "isTime": "true",
+      "endTime": "2025-01-20T15:30:00"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "brand": "samsung",
+      "image": "/images/banner_samsung.webp"
+    },
+    {
+      "id": "2",
+      "brand": "xiaomi",
+      "image": "/images/banner_xiaomi.webp"
+    },
+    {
+      "id": "3",
+      "brand": "apple",
+      "image": "/images/banner_apple.webp"
+    },
+    {
+      "id": "4",
+      "brand": "asus",
+      "image": "/images/banner_asus.webp"
+    },
+    {
+      "id": "5",
+      "brand": "nokia",
+      "image": "/images/banner_anker.webp"
+    },
+    {
+      "id": "6",
+      "brand": "huawei",
+      "image": "/images/banner_huawei.webp"
+    },
+    {
+      "id": "7",
+      "brand": "anker",
+      "image": "/images/banner_anker.webp"
+    },
+    {
+      "id": "8",
+      "brand": "lg",
+      "image": "/images/banner_lg.webp"
+    },
+    {
+      "id": "9",
+      "brand": "haylou",
+      "image": "/images/banner_haylou.webp"
+    }
+  ],
+  "furniturecategory": [
+    {
+      "id": "1",
+      "image": "/images/static_homeAppliance_riceMaker_new.webp",
+      "category": "riceMaker"
+    },
+    {
+      "id": "2",
+      "image": "/images/static_homeAppliance_iron_new.webp",
+      "category": "iron"
+    },
+    {
+      "id": "3",
+      "image": "/images/static_homeAppliance_teaMaker_new.webp",
+      "category": "teaMaker"
+    },
+    {
+      "id": "4",
+      "image": "/images/static_homeAppliance_airConditioner_new.webp",
+      "category": "airConditioner"
+    },
+    {
+      "id": "5",
+      "image": "/images/static_homeAppliance_juicer_new.webp",
+      "category": "juicer"
+    },
+    {
+      "id": "6",
+      "image": "/images/static_homeAppliance_vaccum_new.webp",
+      "category": "vaccum"
+    },
+    {
+      "id": "7",
+      "image": "/images/static_homeAppliance_electric_heater_new.webp",
+      "category": "electric heater"
+    },
+    {
+      "id": "8",
+      "image": "/images/static_homeAppliance_washingMachine_new.webp",
+      "category": "washingMachine"
+    },
+    {
+      "id": "9",
+      "image": "/images/static_homeAppliance_hairDryer_new.webp",
+      "category": "hairDryer"
+    },
+    {
+      "id": "10",
+      "image": "/images/static_homeAppliance_dishwasher_new.webp",
+      "category": "dishwasher"
+    },
+    {
+      "id": "11",
+      "image": "/images/static_homeAppliance_meatGreander_new.webp",
+      "category": "meatGreander"
+    },
+    {
+      "id": "12",
+      "image": "/images/static_homeAppliance_coffeMaker_new.webp",
+      "category": "coffeMaker"
+    },
+    {
+      "id": "13",
+      "image": "/images/static_homeAppliance_refrigerator_new.webp",
+      "category": "refrigerator"
+    },
+    {
+      "id": "14",
+      "image": "/images/static_homeAppliance_microwave_new.webp",
+      "category": "microwave"
+    }
+  ],
+  "shopingBasket": [
+    {
+      "id": "OIlAwgGqGVg",
+      "name": "هارد اکسترنال وسترن دیجیتال مدل My Passport ظرفیت 1 ترابایت",
+      "image": "/images/computer5.webp",
+      "category": [
+        "computer"
+      ],
+      "price": "۷,۸۵۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "brand": "western",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isFlagShip": "",
+      "isTime": ""
+    },
+    {
+      "id": "wMk3_Ui_33c",
+      "name": "لپ تاپ ایسر 15.3 اینچی مدل Aspire Go AG15 i5 1334U 8GB 256GB",
+      "image": "/images/laptop8.webp",
+      "category": [
+        "laptop"
+      ],
+      "price": "۶۳,۵۰۰,۰۰۰",
+      "offprice": "۶۷,۰۰۰,۰۰۰",
+      "offpercent": "۶٪",
+      "brand": "aser",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    },
+    {
+      "id": "vwrGcQOq1Bs",
+      "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 128 گیگابایت رم 8 گیگابایت - ویتنام",
+      "image": "/images/mobile17.webp",
+      "category": [
+        "mobile"
+      ],
+      "price": "۵۱,۶۳۰,۰۰۰",
+      "offprice": "",
+      "offpercent": "",
+      "brand": "samsung",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isFlagShip": "true"
+    },
+    {
+      "id": "LHv4YQiYMBo",
+      "name": "ماشین ظرفشویی ایکس ویژن مدل S151",
+      "image": "/images/furniture6.webp",
+      "category": [
+        "furniture",
+        "stove"
+      ],
+      "price": "۵۴,۵۰۰,۰۰۰",
+      "offprice": "۷۷,۰۰۰,۰۰۰",
+      "offpercent": "۳۰٪",
+      "brand": "xvision",
+      "rate": "۴.۴",
+      "isoff": "",
+      "isFlagShip": "",
+      "isTime": "true"
+    }
+  ],
+  "vblogs": [
+    {
+      "id": "1",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog1.webp"
+    },
+    {
+      "id": "2",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog2.webp"
+    },
+    {
+      "id": "3",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog3.webp"
+    },
+    {
+      "id": "4",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog4.webp"
+    },
+    {
+      "id": "5",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog3.webp"
+    },
+    {
+      "id": "6",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog5.webp"
+    },
+    {
+      "id": "7",
+      "name": "آخبار آیفون ۱۸! لحظه به لحظه تا رونمایی!",
+      "image": "/images/vblog6.webp"
+    }
+  ],
+  "categoryElem": [
+    {
+      "id": "1",
+      "image": "/images/phone.svg",
+      "category": "mobile"
+    },
+    {
+      "id": "2",
+      "image": "/images/laptop.svg",
+      "category": "laptop"
+    },
+    {
+      "id": "3",
+      "image": "/images/handTool.svg",
+      "category": "instrument"
+    },
+    {
+      "id": "4",
+      "image": "/images/handWatch.svg",
+      "category": "smartWatch"
+    },
+    {
+      "id": "5",
+      "image": "/images/handsFree.svg",
+      "category": "handsfree"
+    },
+    {
+      "id": "6",
+      "image": "/images/fridge.svg",
+      "category": "furniture"
+    }
+  ],
+  "users": [
+    {
+      "id": "0a8d",
+      "email": "ryhan@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "4c52",
+      "email": "r@gmail.com",
+      "password": "2255"
+    },
+    {
+      "id": "0edb",
+      "email": "ali55@gmail.com",
+      "password": "8587"
+    },
+    {
+      "id": "dd43",
+      "email": "ryhanhmkhtary52@gmail.com",
+      "password": "99999"
+    },
+    {
+      "id": "2352",
+      "email": "sara@gmail.com",
+      "password": "225588"
+    },
+    {
+      "id": "1531",
+      "email": "test@gmail.com",
+      "password": "7777"
+    },
+    {
+      "id": "1c27",
+      "email": "uuuuu@gmail.com",
+      "password": "5665"
+    },
+    {
+      "id": "4ddd",
+      "email": "thrf@gmail.com",
+      "password": "op876"
+    },
+    {
+      "email": "pariamn85@gmail.com",
+      "password": "85pmnl",
+      "id": "o33wYGdbDio"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

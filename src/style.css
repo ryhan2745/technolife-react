@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font;
+  src: url(/font/iranyekanwebregular.e31c09af.woff2);
+}
+
+
+.open {
+  display: flex;
+}
+body{
+  font-family: font;
+}
