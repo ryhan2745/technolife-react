@@ -1,6 +1,6 @@
 # فروشگاه آنلاین تکنولایف
 
-پروژه فروشگاه آنلاین با React و Next.js (App Router)
+پروژه فروشگاه آنلاین با React  (App Router)
 
 ## قابلیت‌ها
 - صفحه اصلی با اسلایدر
@@ -19,4 +19,4 @@
 npm install
 npm run dev
 # در ترمینال دیگر:
-npx json-server --watch db.json --port 3000
+npx json-server --watch db.json --port 3000  یا npm run server
